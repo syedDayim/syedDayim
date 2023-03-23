@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Event management system for Central University Of Kashmir**
 
-- 🌱 I’m currently learning **ReactJs, Pandas**
+- 🌱 I’m currently learning **Django, Pandas**
 
 - 👨‍💻 All of my projects are available at [https://syeddayim.github.io/mywebsite/](https://syeddayim.github.io/mywebsite/)
 
