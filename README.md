@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Dayim Shah</h1>
-<h3 align="center">A passionate developer, Data analyst.</h3>
+<h3 align="center">A passionate Web and App Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeddayim&label=Profile%20views&color=0e75b6&style=flat" alt="syeddayim" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/dayim_shah" target="blank"><img src="https://img.shields.io/twitter/follow/dayim_shah?logo=twitter&style=for-the-badge" alt="dayim_shah" /></a> </p>
 
-- 🔭 I’m currently working on **Event management system for Central University Of Kashmir**
+- 🔭 I’m currently working as a **Software Developer** at **Shuraa Business Setup UAE**
 
-- 🌱 I’m currently learning **Django, Pandas**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://syeddayim.github.io/mywebsite/](https://syeddayim.github.io/mywebsite/)
+- 👨‍💻 All of my projects are available at [https://syeddayim.github.io/syeddayimshah/)
 
-- 💬 Ask me about **Flexbox, React, Linux, Pandas, Python**
+- 💬 Ask me about **Flexbox, Python, Linux, Flutter, AI**
 
 - 📫 How to reach me **dayim1277@gmail.com**
 
