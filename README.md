@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Developer<br>💬 Ask me about Flexbox, Python, Linux, Backend, Frontend, API<br>📫 How to reach me dayim1277@gmail.com
+🔭 I’m currently working as a Software Developer<br>💬 Ask me about Flexbox, Python, Linux, Backend, Frontend, API<br>📫 How to reach me dayim1277@gmail.com <br>
+<h1> Go To Stars Tab and then Naigate to the list named <i>"Personal Projects"</i>> There you'll find all the projects i have/am worked/working on. </h1>
 
 
 ## 🌐 Socials:
