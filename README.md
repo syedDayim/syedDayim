@@ -1,11 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Syed Dayim Shah</h1>
 <h3 align="center">A passionate frontend developer moving towards full stack development</h3>
 
 <h1>Go to the Stars section and all the projects there stared are my projects that i have worked on</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeddayim&label=Profile%20views&color=0e75b6&style=flat" alt="syeddayim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syeddayim" alt="syeddayim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dayim_shah" target="blank"><img src="https://img.shields.io/twitter/follow/dayim_shah?logo=twitter&style=for-the-badge" alt="dayim_shah" /></a> </p>
 
@@ -23,10 +21,10 @@
 <p align="left">
 <a href="https://twitter.com/dayim_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dayim_shah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syeddayimshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeddayimshah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/syedDayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syedayim" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/syedayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syedayim" height="30" width="40" /></a>
 <a href="https://instagram.com/developer_dayim_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_dayim_shah" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/morningstar013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="morningstar013" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syedDayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syeddayim" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/syeddayim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syeddayim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,4 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeddayim&show_icons=true&locale=en" alt="syeddayim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeddayim&" alt="syeddayim" /></p>
+
+
 
