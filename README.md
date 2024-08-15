@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Dayim, a full-time full-stack software developer 👨‍💻 currently working for SAZGENIX IT SOLUTIONS🚀</div>  
